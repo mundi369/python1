@@ -56,7 +56,7 @@ def inicio_secion():
   contraseña_usuario_entry.pack()
   Label(pantalla1).pack()
   Button(pantalla1, text="Iniciar sesion").pack()
-
+#sergio gey
 
 
 menu_pantalla()  
